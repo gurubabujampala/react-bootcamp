@@ -4406,13 +4406,6 @@ react-is@^16.8.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-traverse@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/react-traverse/-/react-traverse-1.0.0.tgz#0b57505a7e31d455e035e4726bf7ea04f72ecde8"
-  integrity sha512-V/U6LVk2SQ94O1izh2a7oq/Tlw4nHyv1Zsu9qivnaDsNzYQbw5NTziBI1Wyuyz5tEP9JhqaXQ/W2GraVerNY2w==
-  dependencies:
-    weakmap-polyfill "^2.0.0"
-
 react@^16.6.3:
   version "16.13.1"
   resolved "https://registry.yarnpkg.com/react/-/react-16.13.1.tgz#2e818822f1a9743122c063d6410d85c1e3afe48e"
@@ -5466,11 +5459,6 @@ wcwidth@^1.0.1:
   dependencies:
     defaults "^1.0.3"
 
-weakmap-polyfill@^2.0.0:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/weakmap-polyfill/-/weakmap-polyfill-2.0.2.tgz#654da7a05591f576532d58c9d5bfa1d6b48a4b73"
-  integrity sha512-Lyc5GL7aY3E91T5upv+0fd+OZe8gpTa4gyFo+9J5k6HGfYQpLGTAUg/TmAKFoSf+3F05iXLbqd2wIxV9ztr6ig==
-
 webidl-conversions@^4.0.2:
   version "4.0.2"
   resolved "https://registry.yarnpkg.com/webidl-conversions/-/webidl-conversions-4.0.2.tgz#a855980b1f0b6b359ba1d5d9fb39ae941faa63ad"
@@ -5572,9 +5560,9 @@ xtend@^4.0.0, xtend@~4.0.1:
   integrity sha512-LKYU1iAXJXUgAXn9URjiu+MWhyUXHsvfp7mcuYm9dSUKK0/CjtrUwFAxD82/mCWbtLsGjFIad0wIsod4zrTAEQ==
 
 y18n@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.0.tgz#95ef94f85ecc81d007c264e190a120f0a3c8566b"
-  integrity sha512-r9S/ZyXu/Xu9q1tYlpsLIsa3EeLXXk0VwlxqTcFRfg9EhMW+17kbt9G0NrgCmhGb5vT2hyhJZLfDGx+7+5Uj/w==
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.1.tgz#8db2b83c31c5d75099bb890b23f3094891e247d4"
+  integrity sha512-wNcy4NvjMYL8gogWWYAO7ZFWFfHcbdbE57tZO8e4cbpj8tfUcwrwqSl3ad8HxpYWCdXcJUCeKKZS62Av1affwQ==
 
 yargs-parser@^15.0.1:
   version "15.0.1"
