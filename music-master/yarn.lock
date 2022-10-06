@@ -1765,9 +1765,9 @@ css-tree@1.0.0-alpha.39:
     source-map "^0.6.1"
 
 css-what@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/css-what/-/css-what-3.2.1.tgz#f4a8f12421064621b456755e34a03a2c22df5da1"
-  integrity sha512-WwOrosiQTvyms+Ti5ZC5vGEK0Vod3FTt1ca+payZqvKuGJF+dq7bG63DstxtN0dpm6FxY27a/zS3Wten+gEtGw==
+  version "3.4.2"
+  resolved "https://registry.yarnpkg.com/css-what/-/css-what-3.4.2.tgz#ea7026fcb01777edbde52124e21f327e7ae950e4"
+  integrity sha512-ACUm3L0/jiZTqfzRM3Hi9Q8eZqd6IK37mMWPLz9PJxkLWllYeRf+EHUSHYEtFop2Eqytaq1FizFVh7XfBnXCDQ==
 
 cssesc@^3.0.0:
   version "3.0.0"
@@ -4406,13 +4406,6 @@ react-is@^16.8.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-traverse@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/react-traverse/-/react-traverse-1.0.0.tgz#0b57505a7e31d455e035e4726bf7ea04f72ecde8"
-  integrity sha512-V/U6LVk2SQ94O1izh2a7oq/Tlw4nHyv1Zsu9qivnaDsNzYQbw5NTziBI1Wyuyz5tEP9JhqaXQ/W2GraVerNY2w==
-  dependencies:
-    weakmap-polyfill "^2.0.0"
-
 react@^16.6.3:
   version "16.13.1"
   resolved "https://registry.yarnpkg.com/react/-/react-16.13.1.tgz#2e818822f1a9743122c063d6410d85c1e3afe48e"
@@ -5465,11 +5458,6 @@ wcwidth@^1.0.1:
   integrity sha1-8LDc+RW8X/FSivrbLA4XtTLaL+g=
   dependencies:
     defaults "^1.0.3"
-
-weakmap-polyfill@^2.0.0:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/weakmap-polyfill/-/weakmap-polyfill-2.0.2.tgz#654da7a05591f576532d58c9d5bfa1d6b48a4b73"
-  integrity sha512-Lyc5GL7aY3E91T5upv+0fd+OZe8gpTa4gyFo+9J5k6HGfYQpLGTAUg/TmAKFoSf+3F05iXLbqd2wIxV9ztr6ig==
 
 webidl-conversions@^4.0.2:
   version "4.0.2"
